@@ -13,6 +13,12 @@ span.no{
     text-decoration: line-through;
 }
 
-.rojo{color: red;}
+.rojo{color: red;
+font-weight: bolder;
+}
 .verde{color: green;}
 .TXT{color: blue;}
+
+.e{
+    text-decoration: line-through;
+}
