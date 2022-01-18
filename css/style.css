@@ -22,3 +22,7 @@ font-weight: bolder;
 .e{
     text-decoration: line-through;
 }
+
+.mark{
+    background-color: yellow;
+}
