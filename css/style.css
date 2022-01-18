@@ -8,3 +8,7 @@ span.cov{font-weight: bolder;
 span.iva {
     font-size: smaller;
 }
+
+span.no{
+    text-decoration: line-through;
+}
